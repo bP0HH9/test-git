@@ -1,5 +1,5 @@
-git status
-git add [files] - добавляет файлы в stage
-git commit -m "comment"f
-git log / git log --oneline
-git push [rep-link] [branch-name]
+1. git status
+2. git add [files] - добавляет файлы в stage
+3. git commit -m "comment"f
+4. git log / git log --oneline
+5. git push [rep-link] [branch-name]
